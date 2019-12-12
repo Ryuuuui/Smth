@@ -1,6 +1,4 @@
 Hello
-<<<<<<< HEAD
-=======
 qwe
 qweqw
 e
@@ -9,4 +7,4 @@ qwe
 qw
 eqw
 eq
->>>>>>> back-to-first-commit
+Hi
